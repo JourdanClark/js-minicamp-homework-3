@@ -1,0 +1,14 @@
+Objects
+	An object is a collection of variables and methods use to define a specific part of the program such as a Player or Mob in a game.
+
+Properties
+	A property is a method or variable within an object.
+
+Methods
+	A method is a function within an object.
+
+for in loop
+	For in loops are an easy way to loop through an array. You do something for each item in the array.
+
+Dot notation vs Bracket notation
+	When using an object you can call the properties either with dot notation or bracket notation. object.property or object["property"].
